@@ -1,0 +1,28 @@
+1) Adattatore automatico di volume (prende i suoni tramite il microfono dell'ipod, e per mantenere un livello costante di ascolto sopprime le frequenze dei disturbi) - cellulari
+
+2) Analisi audio su suoni ambientali o su brani (riconoscimento di particolari suoni all'interno di un mix per segnalarne o meno la presenza) - investigazione o riconoscimento
+
+3) Amp moedeling (creazione di effetti per strumenti musicali) - VsT, Rtas
+
+4) Riconoscimento hardware musicali (Isolamento caratteristiche audio per riconoscimento strumentazione...tone stack, cabinet, head)
+
+5) Isolamento del riverbero per stabilire il tipo di luogo di esecuzione (possibile evoluzione, rimuovere riverbero e cambiare ambiente) 
+
+- ricavare risposte impulsive di diverse stanze
+
+- partendo da un brano (presupposta applicazione di un riverbero)
+
+- definire l'approssimazione di un riverbero per riconoscere il tipo di riverbero applicato
+
+- isolare/cambiare il tpo di riverbero
+
+
+6) ................   
+
+7) Speech recognition e morphing (Analizzare il timbro vocale di un gruppo di persone, emulaziione del timbro: permettere a qualcuno di parlare con la voce di un altro)
+
+- Registrazione, modellazione del timro vocale dei membri
+
+- Applicazione del timbro vocale ad un altra persona (anche in real time)
+
+8) 
