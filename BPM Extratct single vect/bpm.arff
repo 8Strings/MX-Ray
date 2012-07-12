@@ -1,0 +1,7 @@
+%Created by MX-Ray
+@Relation bpm.arff
+@attribute Bpm real
+@attribute output {Molto veloce,veloce,grintosa,lenta}
+
+
+145.001,label
